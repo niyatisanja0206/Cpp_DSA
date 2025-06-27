@@ -22,3 +22,8 @@ COde41: Calculate nCr
 Code42: Check if number is prime using function
 Code43: Print prime numbers from 1 to n
 Code44: Give nth fibonacci number using recursion
+
+*Number System Conversion*
+Code45: Decimal to Binary Conversion
+COde46: Binary to Decimal Conversion
+
