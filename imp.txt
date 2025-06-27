@@ -1,2 +1,0 @@
-g++ code3.cpp -o main
-.\main
