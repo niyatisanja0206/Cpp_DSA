@@ -1,0 +1,24 @@
+Code 1: How to print in c++
+Code 2: Variables and datatypes
+Code 3: Type Casting
+Code 4: Operators in cpp
+Code 5: User Input
+Code 6 to 10: Conditional Statement
+Code 11 to 15: Loops
+Code 16: Tarnary Operator
+
+*Pattern Problems*(Using nested loops)
+Code 17 to 21: Square Patterns
+Code 22 to 31: Triangle Patterns
+Code 32 to 34: Invert triangle Patterns
+Code 35 and 36: Pyramid patterns
+Code 37: Alphabate with number triangle
+
+*Function*
+Code38: Sum of 1 to n using function
+Code39: Factorial calculation using recursion
+Code40: Calculate the sum of the digits of a number using recursion
+COde41: Calculate nCr
+Code42: Check if number is prime using function
+Code43: Print prime numbers from 1 to n
+Code44: Give nth fibonacci number using recursion
