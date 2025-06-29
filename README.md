@@ -63,9 +63,20 @@ This repository contains a structured set of beginner to intermediate C++ progra
 
 ---
 
-## 📁 Structure
-Each code file is numbered according to the list above, making it easy to follow and practice step-by-step.
+## 🔢 Number System Conversion
+
+- **Code 45**: Decimal to Binary Conversion
+- **Code 46**: Binary to Decimal Conversion
 
 ---
+
+## 📑 Miscellaneos Concepts
+- **Code 47**: Bitwise Operators
+- **Code 48**: Data type Modifiers
+- **Code 49**: Find if number is power of 2 or not using bitwise Operators
+- **Code 50**: Reverse the digits of a number
+
+---
+
 
 Feel free to explore, run, and modify these programs as part of your C++ learning journey!

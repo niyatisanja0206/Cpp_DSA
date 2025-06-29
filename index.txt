@@ -18,12 +18,17 @@ Code 37: Alphabate with number triangle
 Code38: Sum of 1 to n using function
 Code39: Factorial calculation using recursion
 Code40: Calculate the sum of the digits of a number using recursion
-COde41: Calculate nCr
+Code41: Calculate nCr
 Code42: Check if number is prime using function
 Code43: Print prime numbers from 1 to n
 Code44: Give nth fibonacci number using recursion
 
 *Number System Conversion*
 Code45: Decimal to Binary Conversion
-COde46: Binary to Decimal Conversion
+Code46: Binary to Decimal Conversion
 
+*Miscellaneos Concepts*
+Code 47: Bitwise Operators
+Code 48: Data type Modifiers
+Code 49: Find if number is power of 2 or not using bitwise Operators
+Code 50: Reverse the digits of a number
