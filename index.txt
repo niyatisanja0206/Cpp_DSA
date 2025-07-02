@@ -32,3 +32,5 @@ Code 47: Bitwise Operators
 Code 48: Data type Modifiers
 Code 49: Find if number is power of 2 or not using bitwise Operators
 Code 50: Reverse the digits of a number
+
+*Array*
